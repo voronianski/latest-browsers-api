@@ -1,6 +1,6 @@
-# Latest Browsers API
+# Latest Browsers Versions API
 
-> JSON API to get the latest browser versions - https://latest-browsers-api.now.sh.
+> JSON API to get the latest browsers versions - https://latest-browsers-api.now.sh.
 
 ## Example
 
