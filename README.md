@@ -2,6 +2,8 @@
 
 > JSON API to get the latest browsers versions - https://latest-browsers-api.now.sh.
 
+[<img src="logo.png" width="300" />](https://market.mashape.com/voronianski/latest-browsers-versions)
+
 ## Example
 
 Request:
